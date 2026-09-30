@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Margherita",
+    "category": "Massas"
+  },
+  {
+    "id": 2,
+    "name": "Bolo de Chocolate",
+    "category": "Sobremesas"
+  },
+  {
+    "id": 3,
+    "name": "Salada Caesar",
+    "category": "Saladas"
+  },
+  {
+    "id": 4,
+    "name": "Lasanha à Bolonhesa",
+    "category": "Massas"
+  },
+  {
+    "id": 5,
+    "name": "Frango Assado",
+    "category": "Carnes"
+  },
+  {
+    "id": 6,
+    "name": "Sopa de Legumes",
+    "category": "Sopas"
+  },
+  {
+    "id": 7,
+    "name": "Torta de Maçã",
+    "category": "Sobremesas"
+  },
+  {
+    "id": 8,
+    "name": "Risoto de Cogumelos",
+    "category": "Arroz"
+  },
+  {
+    "id": 9,
+    "name": "Panquecas Americanas",
+    "category": "Café da manhã"
+  },
+  {
+    "id": 10,
+    "name": "Hambúrguer Caseiro",
+    "category": "Lanches"
+  }
+]

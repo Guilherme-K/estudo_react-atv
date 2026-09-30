@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Receitas",
+    "value": 125
+  },
+  {
+    "id": 2,
+    "title": "Categorias",
+    "value": 12
+  },
+  {
+    "id": 3,
+    "title": "Favoritos",
+    "value": 38
+  }
+]
